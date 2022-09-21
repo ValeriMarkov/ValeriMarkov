@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valeri!</h1>
-<h3 align="center">A passionate software developer student from Bulgaria</h3>
+<h3 align="center">A software developer student from Bulgaria</h3>
 
 - 🔭 I’m currently studying in **IT-Step Academy Sofia**
 
