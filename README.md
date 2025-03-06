@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Valeri!</h1>
-<h3 align="center">A software developer student from Bulgaria</h3>
+<h3 align="center">A software developer graduate from Burgas, Bulgaria</h3>
 
-- 🔭 I’m currently studying in **IT-Step Academy Sofia**
+- 🔭 Finished software developer course in **IT-Step Academy Sofia**
 
-- 📄 I’m currently learning **Python**
+- 📄 I’m focusing on C#
 
 - 📫 How to reach me **v.markow.97@gmail.com**
 
