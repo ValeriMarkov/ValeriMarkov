@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valeri!</h1>
 <h3 align="center">A software developer graduate from Burgas, Bulgaria</h3>
 
-- 🔭 Finished software developer course in **IT-Step Academy Sofia**
+- 🔭 Finished software development course in **IT-Step Academy Sofia**
 
 - 📄 I’m focusing on C#
 
